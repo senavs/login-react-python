@@ -26,6 +26,8 @@ Frontend application will be on port [8080](http://localhost:8080/) and the back
   - Docker
   - Dockerfile
   - Docker Compose
+- Database:
+  - MySQL
 - Backend:
   - Python3
   - FastAPI
